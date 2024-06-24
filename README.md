@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Betelgeuse-coder
 - 👀 I’m interested in data analytics.
 - 🌱 I’m currently learning Python, SQL and portfolio building.
-- 💞️ I’m looking to collaborate on projects involving data anakysis and visuisation. 
+- 💞️ I’m looking to collaborate on projects involving data analysis and visualisation. 
 - 📫 How to reach me - message me!
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: Beteegeuse is gonna explode!! 
